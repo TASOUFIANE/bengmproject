@@ -11,8 +11,8 @@ $enableSandbox = true;
 // PayPal settings. Change these to your account details and the relevant URLs
 // for your site.
 $paypalConfig = [
-    'client_id' => 'AUGgdD6IqOPE70pk0scSVdcOoevVMWSkaeXtXce9In3wqywAg86sl-cXUnLoDot03s4b5shwnTMdE1Kt',
-    'client_secret' => 'EH_DZLsVraT0jdRALwfBtWAUN80mDrLB04cSjqX8e8i8-BvnhQx-66o3e9Y8dNMdfTZdJQjp81SjEwxv',
+    'client_id' => '',
+    'client_secret' => '',
     'return_url' => 'http://localhost/project/response.php',
     'cancel_url' => 'http://localhost/project/index.php'
 ];
